@@ -1,7 +1,21 @@
 # Open-Anniversary-Clock-Replacement-With-Modern-Internals
+
+Originally Called The Floating Display Clock
+Because in the dark all you can see is the 2 displays , yes it has 2 , that gives more possibilities in terms of use and displaying information.
+The parts make out the housing are printed with transparent PLA for the same reason , to be invisble :).
+
+Keep in mind , i'm not a 3d design expert , nor a programmer , or electrical engineer.
+More a hobbist maker - developer - technician.
+
 This project is aimed at creating all the internals for a  replacement clock , made to fit inside a middle sized clock dome , wheter it is acrylic or glass , its up to you in the finishing touches. 
 The electronics are designed to be as cheap and available as possible , with the exception of the melody chip, that is obtainable , but availablility is somewhat in debate.
 The chip HK221-2 is from a company Honistak in taiwan , and currenty in production , obtaining it will still be challenging if not bought in quantity.
 The chip seems to be a clone / reproduction of the UM3482A which is also from a Taiwanese company UMC from the early 90's. I chosse thsi chip because it has retrigger input and very few support components.
 The chips used for development are obtined from this website: https://www.budgetronics.eu/en/ics/special-use-ics/multi-tunes-melody-ic-hk221-2/a-6563-10000142
+The brains of the operation is the ESP32-C3 Supermini , which is widely available , and cheap but capable.
+Sensors are AHT20+BMP280 module , also readily available internet wide.
+For Light sensing , GL5528 is used in a resitor divider configuration.
+RTC the legendary DS3231 , yes no crystals needed and accurate enough for longer timekeeping compared to the DS1307 most pepole use. RTC battery is CR1220 for compactness.
+A simple one tramsistor amplifier is used for playing the molodies from the HK221-2 , with an 8R 0.5W speaker is an ideal choice in 50mm diameter.
+The clock has no keys or buttons , all inputs handled with IR remote control. VS1838 compatible receiver used to decode the remote control commands.
 
