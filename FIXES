@@ -1,1 +1,4 @@
-
+To fix the usb plugged in and removed melody trigger / random meloy play when updating / flashing the mcu , 
+a 4.7K or 10K pull up resistor needed to be connected from HK221-2 Positive supply to PIN 1 of the chip to avoid false triggers - undefined behaviour.
+This will prevent triggering the chip when it is not supposed to be trigered.
+Sugestion: a 0805 size resitor to be instaled on the bottom side of the pcb to be invisible. 
