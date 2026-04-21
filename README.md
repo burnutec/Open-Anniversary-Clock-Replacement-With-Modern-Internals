@@ -17,5 +17,27 @@ Sensors are AHT20+BMP280 module , also readily available internet wide.
 For Light sensing , GL5528 is used in a resitor divider configuration.
 RTC the legendary DS3231 , yes no crystals needed and accurate enough for longer timekeeping compared to the DS1307 most pepole use. RTC battery is CR1220 for compactness.
 A simple one tramsistor amplifier is used for playing the molodies from the HK221-2 , with an 8R 0.5W speaker is an ideal choice in 50mm diameter.
+RT9013-33GB used for voltage regulation , small cheap and widely available.
+Two TM1637 LED display driver for the screens.
 The clock has no keys or buttons , all inputs handled with IR remote control. VS1838 compatible receiver used to decode the remote control commands.
+
+Parts list : 
+
+Current fucntions:
+
+- Display Time 
+- Display Date
+- Display in 12 / 24HR format
+- Display Temperature 
+- Display Humidity 
+- Display Air pressure
+- Display Currently set Time mode 12/24HR
+- Display Week number
+- Manual brightness setting 1-7
+- Automatic Brightness setting ( Based on environmental light ) - Can be set to ON/OFF
+- Hourly Chime  - Can be set to ON / OFF
+- WIFI clock sync using NTP , requires setup , toggled from Remote control.
+
+In development : Alarm function
+
 
