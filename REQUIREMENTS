@@ -1,1 +1,8 @@
+Arduini IDE 2.3.7 or newer.
+ESP32 boards package 3.3.7 or newer.
+AHT20 library by: dvarrel.
+BMP280 library by: dvarrel.
+HX1838 Decoder library by: johnosbbs.
+I2CRTC library by: Manjunath CV.
 
+Tested on Windows 11 64 bit only , Windows 10 64 bit may work.
