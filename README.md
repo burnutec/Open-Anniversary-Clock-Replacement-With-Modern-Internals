@@ -21,8 +21,6 @@ RT9013-33GB used for voltage regulation , small cheap and widely available.
 Two TM1637 LED display driver for the screens.
 The clock has no keys or buttons , all inputs handled with IR remote control. VS1838 compatible receiver used to decode the remote control commands.
 
-Parts list : 
-
 Current fucntions:
 
 - Display Time 
