@@ -35,8 +35,7 @@ Current fucntions:
 - Automatic Brightness setting ( Based on environmental light ) - Can be set to ON/OFF
 - Hourly Chime  - Can be set to ON / OFF
 - WIFI clock sync using NTP , requires setup , toggled from Remote control.
-- Check for Alarm 1 or 2 is On or Off
-- Check for 12 or 24 Hour Mode is active
+- Check for Alarm 1 or 2 is ON or OFF
 
 In development : Alarm function
 
