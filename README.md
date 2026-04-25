@@ -46,4 +46,7 @@ Current fucntions:
 
 In development : Alarm function
 
+                                                                                                       <img width="392" height="610" alt="image" src="https://github.com/user-attachments/assets/2db1ebb0-af96-44dc-88b9-0e5a0a3e9c22" />
+
+
 
