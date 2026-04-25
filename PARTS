@@ -1,3 +1,36 @@
-ESP32-C3 Supermini x 1
-TM1637 IC x1
+For the Main PCB:
+
+10K 0805 Resistor x4
+100nF 6.3 / 10V 0805 Capacitor x 4
+10uF 6.3 / 10V Capacitor 0805 x 4
+250K 0805 Resistor x1
+10K Potentiometer
+GL5528 10K Photoresistor x1
+CR1220 SMD Battery holder x1
+2N3904 Transistor SOT23-3 x1
+DIP16 IC Socket x1
+Type-c 2 Wire recatngle plastic bracket version x1
+DS3231 IC SOP16 x1
+VS1383 compatible IR Receiver x1
+HK221-2 Multi melody IC x1
 DS3231 IC x1
+RT9013-33GB 3.3V Regulator x 2
+ESP32-C3 Supermini x1
+AHT20+BM280 Purple Module x1
+
+For The Display:
+100pF 6.3 / 10V 0805 Capacitor x4
+10K 0805 Resistor x4 
+10uF 6.3 / 10V 0805 Capacitor x2
+3661AS/BS 6 Digit LED display Common Anode x2
+TM1637 IC SOP-20 x2
+
+For Speaker a 50mm 8R 0.5W ( Old Pc Speaker or Similar ) is Used
+
+Warning : C6 label is missing on the pcb design , i have no way of correcting it now, 
+since i havily modified the base pcb for another project i work on.
+Just kmow the 2 Capacitors attached to the left RT9013-33GB are both 10uF 6.3/10uF 0805 size.
+
+This list excludes the 3d printed parts.
+
+Burnutec.
