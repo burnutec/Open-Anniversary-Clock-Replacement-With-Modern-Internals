@@ -1,5 +1,12 @@
 # Open-Anniversary-Clock-Replacement-With-Modern-Internals
 
+DISCLAIMER:
+The modifications you do to your equipment , i can not be held responsible.
+The software and models are provied free of charge , what you do with them i can not be held responsible for.
+This is a hobby project i decided to share , comes without any warranties.
+
+So after reading this lets begin:
+
 Originally Called The Floating Display Clock
 Because in the dark all you can see is the 2 displays , yes it has 2 , that gives more possibilities in terms of use and displaying information.
 The parts make out the housing are printed with transparent PLA for the same reason , to be invisble :).
