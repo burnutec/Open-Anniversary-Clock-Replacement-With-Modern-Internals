@@ -1,7 +1,7 @@
 # Open-Anniversary-Clock-Replacement-With-Modern-Internals
 
 DISCLAIMER:
-The modifications you do to your equipment , i can not be held responsible.
+The modifications you do to your equipment , i can not be held responsible for.
 The software and models are provied free of charge , what you do with them i can not be held responsible for.
 This is a hobby project i decided to share , comes without any warranties.
 
